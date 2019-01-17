@@ -1,0 +1,5 @@
+{
+    "jdbcUrl": "jdbc:mysql://<hostname>/sparkie",
+    "user": "sparkie",
+    "password": "<password>"
+}
